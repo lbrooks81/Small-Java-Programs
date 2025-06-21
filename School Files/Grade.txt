@@ -1,0 +1,4 @@
+13/15
+
+(-1) In #4, no matter the item you type in, it will always say it is a brick.
+(-1) Missing the loop part in #5.
